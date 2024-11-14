@@ -5,7 +5,7 @@ Welcome to the GitHub organization for the Egyptian Army’s Air Defense Researc
 **Project Status**  
 - **Total Projects**: 12  
 - **Completed Projects**: 3  
-- **Ongoing Projects**: 3  
+- **Ongoing Projects**: 4  
 
 **Note**: All repositories within this organization are private, with access limited to authorized personnel only. These resources are strictly for official use and are not intended for public access, sharing, or personal projects.
 
